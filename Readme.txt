@@ -10,15 +10,15 @@ The design is derived by taking into account the popular prusa Shields as well a
 
 Parts Needed:
 
-1. 3D ptinted Headband : PLA/PETG
-2. A4/A3 Size clear Plastic Sheet/Laminta/acrylic
+1. 3D printed / INjection moulded Headband : PLA/PETG
+2. A4/A3 Size clear Plastic Sheet/Laminated sheet/acrylic
 3. Elastic/Rubber Band
 
 Tools Needed:
 1. Hole Punch with 80mm Hole distance ( Standard in INDIA )
 
 The 3D Printed Version of this design is being tested and used by a gourp of Doctors & Healthcare Professionals 
-and we plan to make a mould soon so that we are able to produce at scale.
+and we plan to make a injection mould soon so that it can be produced & distributed at scale.
 
 
 
