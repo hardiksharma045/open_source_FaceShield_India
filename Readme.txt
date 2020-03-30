@@ -1,6 +1,10 @@
 Hardik Sharma 
 
-29 March 2020
+VERSION 3.0 UPDATE:
+
+UPDATED DESIGN TO INCORPORATE CHANGES FOR FASTER PRINTING AND EASIER MOULDING.
+
+VERSION v 2.0
 
 Design of a FaceShield for use of Healthcare Workers/First Responders.
 
